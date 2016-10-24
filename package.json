@@ -1,6 +1,6 @@
 {
   "name": "muster-js",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A small library to work with arrays in Javascript.",
   "main": "lib/main.js",
   "scripts": {
